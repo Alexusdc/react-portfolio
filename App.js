@@ -1,8 +1,8 @@
 import React from 'react';
-import Nav from './components/nav';
-import About from './components/about';
-import Project from './components/project';
-import Footer from './components/footer';
+import Nav from './src/components/nav';
+import About from './src/components/about';
+import Project from './src/components/project';
+import Footer from './src/components/footer';
 
 function App() {
 
