@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/react-portfolio/static/js/main.073edfec.js",
+    "static/js/787.137aa76a.chunk.js": "/react-portfolio/static/js/787.137aa76a.chunk.js",
+    "static/media/horiseon.png": "/react-portfolio/static/media/horiseon.47bfb7161fdb1b7028f9.png",
+    "static/media/calendar-method.png": "/react-portfolio/static/media/calendar-method.2a07d6b587d0c3d10bd6.png",
+    "static/media/smart-homie.png": "/react-portfolio/static/media/smart-homie.3fd90bfdaa1947878170.png",
+    "static/media/hydrangea-bg.jpeg": "/react-portfolio/static/media/hydrangea-bg.2801c934e340267330af.jpeg",
+    "static/media/plant-scape.png": "/react-portfolio/static/media/plant-scape.3edf10a5cfce269a0cb6.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/react-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.073edfec.js.map": "/react-portfolio/static/js/main.073edfec.js.map",
+    "787.137aa76a.chunk.js.map": "/react-portfolio/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.073edfec.js"
+  ]
+}
