@@ -12,7 +12,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+          <span role="img" aria-label="camera"></span> Alexus Christensen
         </a>
       </h2>
       <nav>
@@ -23,7 +23,9 @@ function Nav(props) {
             </a>
           </li>
           <li className="mx-2">
-            <span>Contact</span>
+          <a data-testid="contact" href="#contact">
+              Contact
+            </a>
           </li>
           {categories.map((category) => (
             <li
@@ -41,6 +43,11 @@ function Nav(props) {
               </span>
             </li>
           ))}
+          <li className="mx-2">
+          <a data-testid="Projects" href="#projects">
+              Projects
+            </a>
+          </li>
         </ul>
       </nav>
     </header>

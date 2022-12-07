@@ -8,9 +8,7 @@ import photo4 from '../assets/images/smart-homie.png';
 
 function Project(props) {
   const currentCategory = {
-    name: "project 1",
-    description:
-      "Project 1",
+    name: "Projects",
   };
   return (
     <section>
